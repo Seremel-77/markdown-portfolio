@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![USMC](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1043%2F9662%2Fproducts%2F1002_Logo_USMC_full_circle_1_grande.png%3Fv%3D1483615676&f=1&nofb=1)
