@@ -1,5 +1,6 @@
-*Python*
-*R*
-*SQL*PLUS*
-*PL/SQL*
-*Javascript* 
+*SKILLS*
+- _Python_
+- _R_
+- _SQL PLUS_
+- _PL/SQL_
+- _Javascript_ 
