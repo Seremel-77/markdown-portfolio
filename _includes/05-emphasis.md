@@ -1,5 +1,5 @@
--Python-
--R-
--SQL*PLUS-
--PL/SQL-
--Javascript- 
+*Python*
+*R*
+*SQL*PLUS*
+*PL/SQL*
+*Javascript* 
