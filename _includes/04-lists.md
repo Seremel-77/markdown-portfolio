@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Gaming (xbox, pc)
+Working on projects (home arcade raspberry pi)
+Research events and history (I don't trust the media)
+Played World of Warcraft for serveral years (I am the original Seremel)
